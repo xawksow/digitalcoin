@@ -1,31 +1,24 @@
-digitalcoin v1.2.1
+DigitalCoin Development Repository
+==================================
 
-Copyright (c) 2009-2012 Bitcoin Developers
-Copyright (c) 2011-2012 Litecoin Developers
-Copyright (c) 2011-2014 Digitalcoin Developers
-Distributed under the MIT/X11 software license, see the accompanying
-file COPYING or http://www.opensource.org/licenses/mit-license.php.
-This product includes software developed by the OpenSSL Project for use in
-the OpenSSL Toolkit (http://www.openssl.org/).  This product includes
-cryptographic software written by Eric Young (eay@cryptsoft.com).
+http://digitalcoin.co
 
-What It Is:
--A digital currency
--A means to store value
--A fast method to send and receive money
--Transparent and open source
--Anonymous
+Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers 
+Copyright (c) 2011-2014 DigitalCoin Developers
 
-Transaction Specifications:
--Irreversible value transfer
--Transactions are sent instantly and are confirmed in minutes
--Double spending prevented by the blockchain
--Miners process transactions and create new currency through mining
--Transactions can be received at any time
+What is DigitalCoin?
+--------------------
+DigitalCoin is a decentralized peer-to-peer cryptographic currency that is not controlled by any central authority. DigitalCoin is designed for transaction speed, security, stability, and ease of use. This regard for stability is inherent in the design of the economy and in the spirit of the community.
 
-Learn More:
-Official forums: http://digitalcoin.co/forums
-bitcointalk thread: https://bitcointalk.org/index.php?topic=209508.0
+- 40 second block targets
+- subsidy halves every ~3 years
+- ~145 million total coins
+- 15 coins per block
+- 108 blocks to retarget difficulty
 
-Copyright digitalcoin.co 2014
+For more information, see www.digitalcoin.co
 
+License
+-------
+DigitalCoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
